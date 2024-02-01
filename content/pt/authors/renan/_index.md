@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Pesquisadores
 ---
 
 Renan Matsuda is a postdoctorate working with Transcranial Magnetic Stimulation (TMS), computer vision, robotics and also on the development of a neuronavigation system, InVesalius Navigator.
