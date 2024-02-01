@@ -19,7 +19,7 @@ role: Full Professor
 # Organizations/Affiliations
 organizations:
   - name: University of São Paulo
-    url: ''
+    url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include on interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).
