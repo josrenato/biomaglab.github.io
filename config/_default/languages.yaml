@@ -18,5 +18,5 @@ pt:
   menu:
     main:
       - name: membros
-        url: '#people'
+        url: 'people'
         weight: 1
