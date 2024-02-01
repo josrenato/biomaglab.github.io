@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'renan.matsuda@usp.br'
+    link: 'mailto:renan.matsuda@usp.br'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=gKMnDfMAAAAJ&hl=en

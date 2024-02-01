@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'baffa@usp.br'
+    link: 'mailto:baffa@usp.br'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=MfmrtAIAAAAJ&hl=en
