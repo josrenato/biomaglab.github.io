@@ -22,15 +22,9 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My project centered around the utilization of a robotic arm as a foundation for learning
-and research. This particular robotic arm is intended to eventually enhance the efficiency
-and precision of treatments for neurological diseases. At present, these treatments are
-carried out manually, which entails inherent risks of precision loss and common errors. The
-primary objective of the robotic arm is to ensure that such shortcomings do not occur.
-Furthermore, studies involve developing a Python source code within the PyCharm
-application to facilitate various applications of the robotic arm. I am attending High School
-Integrated in Systems Development, with the purpose of improving my skills in the field of
-technology and innovation.
+bio: My project centered around the utilization of a robotic arm as a foundation for learning and research. 
+  Furthermore, studies involve developing a Python source code within the PyCharm application to facilitate various applications of the robotic arm. 
+  I am attending High School Integrated in Systems Development, with the purpose of improving my skills in the field of technology and innovation.
 
 interests:
   - Biomagnetism 
@@ -38,12 +32,10 @@ interests:
 
 education:
   courses:
-course: High School (2nd grade) in progress.
-ETEC Antônio de Pádua Cardoso, SP, Brazil.
-year: 2023 - 2025
-course: Elementary Education (1st grade)
-COC Batatais, SP, Brazil.
-year: 2014 - 2022
+  - course: High School (2nd grade) in progress. ETEC Antônio de Pádua Cardoso, SP, Brazil.
+    year: 2023 - 2025
+  - course: Elementary Education (1st grade) COC Batatais, SP, Brazil.
+    year: 2014 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,11 +43,11 @@ year: 2014 - 2022
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-icon_pack: fas
-link: 'mailto: zrenatops@gmail.com'
+  icon_pack: fas
+  link: 'mailto: zrenatops@gmail.com'
 - icon: google-scholar
-icon_pack: ai
-link:http://lattes.cnpq.br/8208655782213764
+  icon_pack: ai
+  link: http://lattes.cnpq.br/8208655782213764
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - High School Students
 ---
 
 His project centered around the utilization of a robotic arm as a foundation for learning and

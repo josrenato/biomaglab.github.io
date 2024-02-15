@@ -24,9 +24,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:  My role within Biomag Lab is to address the content that is studied in the laboratory,
-such as Transcranial Magnetic Stimulation, Biomagnetism and Magnetocardiography,
-placing them on a website. Also within this, I make photos and illustrations that are used to
-exemplify the processes mentioned above.
+  such as Transcranial Magnetic Stimulation, Biomagnetism and Magnetocardiography,
+  placing them on a website. Also within this, I make photos and illustrations that are used to
+  exemplify the processes mentioned above.
 
 interests:
   - Biomagnetism 
@@ -34,13 +34,13 @@ interests:
 
 education:
   courses:
-course: High School (2nd grade) in progress.
-ETEC Antonio de Pádua Cardoso, ETEC APC, Brazil.
-year: 2023-2025
-2019 - 2022
-course: Elementary Education (1st grade).
-Silvio de Almeida State School, EESA, Brazil.
-year: 2019-2022
+    - course: High School (2nd grade) in progress.
+        ETEC Antonio de Pádua Cardoso, ETEC APC, Brazil.
+      year: 2023-2025
+        2019 - 2022
+    - course: Elementary Education (1st grade).
+        Silvio de Almeida State School, EESA, Brazil.
+      year: 2019-2022
 
 
 # Social/Academic Networking
@@ -48,13 +48,12 @@ year: 2019-2022
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-social:
-- icon: envelope
-icon_pack: fas
-link: 'mailto:mariasimone77soriano@gmail.com'
-- icon: google-scholar
-icon_pack: ai
-link:http://lattes.cnpq.br/7600619672111018
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:mariasimone77soriano@gmail.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: http://lattes.cnpq.br/7600619672111018
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - High School Students 
 ---
 
 Maria is a pre-scientific-initiation student at the University of São Paulo. Her role at Biomag
