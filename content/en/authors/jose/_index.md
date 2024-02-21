@@ -29,6 +29,7 @@ bio: My project centered around the utilization of a robotic arm as a foundation
 interests:
   - Biomagnetism 
   - Electron Spin Resonance Dosimetry and Dating
+  - Programming
 
 education:
   courses:

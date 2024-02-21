@@ -30,7 +30,8 @@ bio:  My role within Biomag Lab is to address the content that is studied in the
 
 interests:
   - Biomagnetism 
-  - Electron Spin Resonance Dosimetry and Dating
+  - Administration
+  - Transcranial Magnetic Simulation
 
 education:
   courses:
