@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Lucas Betioli
+title: Débora Souza
 
 
 # Full name (for SEO)
-first_name: Lucas
-last_name: Betioli
+first_name: Débora
+last_name: Souza
 
 # Username (this should match the folder name)
 authors:
-  - lucas
+  - debora
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student 
+role: Undergraduate Student  
 
 # Organizations/Affiliations
 organizations:
@@ -23,19 +23,19 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include on interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).
+bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). Her research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
 
 interests:
   - Transcranial Magnetic Stimulation 
-  - Machine Learning
-  - Programming
+  - Biomagnetrism
+  - Optical Pumping Magnetometers
 
 education:
   courses:
 
     - course: BSc in Medical Physics
       institution: University of São Paulo
-      year: 2023
+      year: 2021 - 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,10 +44,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: lucasantoniobetioli@usp.br '
+    link: 'mailto: debora.martins@usp.br'
   - icon: google-scholar
     icon_pack: ai
-    link: http://lattes.cnpq.br/4001525939442983 
+    link: http://lattes.cnpq.br/9334346982207455
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,5 +63,5 @@ email: ''
 user_groups:
   - Grad Students
 ---
-Lucas Betioli is a master's student focusing on Transcranial Magnetic Stimulation (TMS), machine learning, and tractography. He's also a contributor to the Invesalius Navigator, neuronavigation system.
+Débora Martins de Souza is an undergraduate student in Medical Physics and is engaged in a Scientific Initiation program at the University of São Paulo (USP). Her research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
 

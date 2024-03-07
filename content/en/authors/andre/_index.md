@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Lucas Betioli
+title: André Peres
 
 
 # Full name (for SEO)
-first_name: Lucas
-last_name: Betioli
+first_name: André
+last_name: Peres
 
 # Username (this should match the folder name)
 authors:
-  - lucas
+  - andre
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student 
+role: Research Professor 
 
 # Organizations/Affiliations
 organizations:
@@ -23,19 +23,19 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include on interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).
+bio:  I am currently a research professor at the Edmond and Lily Safra International Institute of Neurosciences - Instituto Santos Dumont. My academic interest is centered on the dynamics of sensory processing, the integration between sensory systems and how information from the environment is perceived by individuals. In human studies, we use functional magnetic resonance imaging combined with machine learning techniques to understand how semantic categories are organized in the brain.
 
 interests:
   - Transcranial Magnetic Stimulation 
-  - Machine Learning
-  - Programming
+  - Neuroscience
+  - Sensory processing
 
 education:
   courses:
 
-    - course: BSc in Medical Physics
+    - course: PhD in Physics Applied to Medicine and Biology
       institution: University of São Paulo
-      year: 2023
+      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,10 +44,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: lucasantoniobetioli@usp.br '
+    link: 'mailto: peres.asc@gmail.com'
   - icon: google-scholar
     icon_pack: ai
-    link: http://lattes.cnpq.br/4001525939442983 
+    link: http://lattes.cnpq.br/8282650074944458 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Collaborators
 ---
-Lucas Betioli is a master's student focusing on Transcranial Magnetic Stimulation (TMS), machine learning, and tractography. He's also a contributor to the Invesalius Navigator, neuronavigation system.
+André Salles da Cunha is a research professor at the Edmond and Lily Safra International Institute of Neurosciences - Instituto Santos Dumont. His academic interest is centered on the dynamics of sensory processing, the integration between sensory systems and how information from the environment is perceived by individuals.
 

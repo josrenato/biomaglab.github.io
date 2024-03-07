@@ -31,10 +31,10 @@ interests:
 
 education:
   courses:
-  - course: High School (2nd grade) in progress. ETEC Antônio de Pádua Cardoso, SP, Brazil.
-    year: 2023 - 2025
+  - course: High School (2nd grade) in progress. ETEC Antônio de Pádua Cardoso, SP, Brazil
+    year: 2023, current.
   - course: Elementary Education (1st grade) Maria Virgínia Batatais, SP, Brazil.
-    year: 2018 - 2022
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

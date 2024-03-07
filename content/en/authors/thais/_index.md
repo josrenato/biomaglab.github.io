@@ -23,11 +23,13 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include on interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).
+bio: I have been engaged in research focusing on instrumentation within the development of an automated robotic system for the positioning of coils in transcranial magnetic stimulation. Over the past few years, my emphasis has shifted towards the optimization of this technique, particularly in the study of protocols, including methodologies and enhancing the overall efficiency of the transcranial magnetic stimulation process.
 
 interests:
   - Biomagnetism 
-  - Electron Spin Resonance Dosimetry and Dating
+  - Magnetic Resonance Imaging
+  - Transcranial Magnetic Simulation
+
 
 education:
   courses:
@@ -62,5 +64,5 @@ email: ''
 user_groups:
   - Grad Students
 ---
+Thais Marchetti has been engaged in research focusing on instrumentation within the development of an automated robotic system for the positioning of coils in transcranial magnetic stimulation. Over the past few years, her emphasis has shifted towards the optimization of this technique, particularly in the study of protocols, including methodologies and enhancing the overall efficiency of the transcranial magnetic stimulation process.
 
-Baffa is a full professor at the University of São Paulo. His research interests include interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).

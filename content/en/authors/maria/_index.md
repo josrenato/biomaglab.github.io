@@ -36,12 +36,11 @@ interests:
 education:
   courses:
     - course: High School (2nd grade) in progress.
-        ETEC Antonio de Pádua Cardoso, ETEC APC, Brazil.
-      year: 2023-2025
-        2019 - 2022
+        ETEC Antonio de Pádua Cardoso, ETEC APC, Brazil
+      year: 2023, current.
     - course: Elementary Education (1st grade).
-        Silvio de Almeida State School, EESA, Brazil.
-      year: 2019-2022
+        Silvio de Almeida State School, EESA, Brazil
+      year: 2022
 
 
 # Social/Academic Networking
@@ -73,6 +72,5 @@ user_groups:
 
 Maria is a pre-scientific-initiation student at the University of São Paulo. Her role at Biomag
 Lab is to address the content that is studied in the laboratory, placing it on a website and she
-creates pictures and takes photos about the subject viewed in the lab. She is like a content
-creator. Also she is studying administration at ETEC Antonio de Pádua Cardoso and her
+creates pictures and takes photos about the subject viewed in the lab. She works creating content. Also she is studying administration at ETEC Antonio de Pádua Cardoso and her
 goal is to be better than now.
