@@ -27,9 +27,7 @@ pager: true
 
 ---
 
-# Spectroscopic technique used to study materials containing unpaired electrons is used in archeology dating. <h1>
-
-![A](arqueologia.jpg)
+Spectroscopic technique used to study materials containing unpaired electrons is used in archeology dating.
 
 <!--more-->
 

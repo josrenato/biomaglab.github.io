@@ -1,9 +1,6 @@
 ---
 title: Biosusceptometry
 date: 2024-03-07
-image:
-  focal_point: 'top'
-  preview_only: true
 
 authors:
 - baffa
@@ -27,9 +24,7 @@ pager: true
 
 ---
 
-# Is the presence of iron in the body necessary? <h1>
-
-![A](biosusceptometria.jpg)
+Is the presence of iron in the body necessary? 
 
 <!--more-->
 

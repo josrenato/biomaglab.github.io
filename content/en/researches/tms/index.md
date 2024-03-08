@@ -30,9 +30,7 @@ pager: true
 
 ---
 
-# Transcranial Magnetic Stimulation.<h1>
-
-![A](tms.jpg)
+Transcranial Magnetic Stimulation.
 
 <!--more-->
 
