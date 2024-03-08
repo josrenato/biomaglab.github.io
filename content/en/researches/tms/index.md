@@ -3,7 +3,7 @@ title: Transcranial Magnetic Stimulation (TMS)
 date: 2024-03-07
 ---
 
-Transcranial Magnetic Stimulation.
+# Transcranial Magnetic Stimulation.<h1>
 
 ![A](tms.jpg)
 

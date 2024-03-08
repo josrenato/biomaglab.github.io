@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Therapeutic modality that has been used as an adjunct method in the rehabilitation of patients.
+# Therapeutic modality that has been used as an adjunct method in the rehabilitation of patients. <h1>
 
 ![A](figura-1.jpg)
 
