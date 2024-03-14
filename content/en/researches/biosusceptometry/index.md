@@ -6,7 +6,7 @@ authors:
 - baffa
 
 # Show the page's date?
-show_date: false
+show_date: true
 
 # Show author profile (photo and bio) under the content?
 # Edit your author profiles in the `content/authors/` folder

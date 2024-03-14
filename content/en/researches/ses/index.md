@@ -3,6 +3,27 @@ title: Sensory Electrostimulation
 date: 2024-03-07
 image:
   focal_point: 'top'
+  preview_only: true
+
+authors:
+- baffa
+
+# Show the page's date?
+show_date: true
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: true
+
+# Show estimated reading time?
+reading_time: false
+
+# Show social sharing links?
+share: false
+
+# Show a link to the next article in the series?
+pager: true
 ---
 
 Therapeutic modality that has been used as an adjunct method in the rehabilitation of patients.
