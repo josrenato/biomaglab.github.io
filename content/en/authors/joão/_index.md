@@ -8,7 +8,7 @@ last_name: Neves
 
 # Username (this should match the folder name)
 authors:
-  - jose
+  - João Pedro das Neves
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,12 +27,13 @@ bio: My project is based on using a robotic arm as a foundation for learning and
 
 interests:
   - Biomagnetism 
+  - Systems development
   - Programming
 
 education:
   courses:
   - course: High School (2nd grade) in progress. ETEC Antônio de Pádua Cardoso, SP, Brazil
-    year: 2023, current.
+    year: 2024, current.
   - course: Elementary Education (1st grade) Maria Virgínia Batatais, SP, Brazil.
     year: 2022
 

@@ -3,10 +3,10 @@ title: Sensory Electrostimulation
 date: 2024-03-07
 image:
   focal_point: 'top'
-  preview_only: true
 
 authors:
 - baffa
+- renan
 
 # Show the page's date?
 show_date: true
@@ -27,7 +27,6 @@ pager: true
 ---
 
 Therapeutic modality that has been used as an adjunct method in the rehabilitation of patients.
-
 <!--more-->
 
 Electrosomatossensory stimulation (SES) is a therapeutic modality that has been used as an adjunct method in the rehabilitation of patients with specific sensorimotor deficits. One of these deficits is spasticity, which can manifest in individuals affected by cerebrovascular accidents and impairs their functional performance. 

@@ -28,7 +28,7 @@ bio: My project centered around the utilization of a robotic arm as a foundation
 
 interests:
   - Biomagnetism 
-  - Electron Spin Resonance Dosimetry and Dating
+  - Systems development
   - Programming
 
 education:
@@ -64,12 +64,4 @@ user_groups:
   - High School Students
 ---
 
-His project centered around the utilization of a robotic arm as a foundation for learning and
-research. This particular robotic arm is intended to eventually enhance the efficiency and
-precision of treatments for neurological diseases. At present, these treatments are carried
-out manually, which entails inherent risks of precision loss and common errors. The primary
-objective of the robotic arm is to ensure that such shortcomings do not occur. Furthermore,
-studies involve developing a Python source code within the PyCharm application to facilitate
-various applications of the robotic arm. He is attending High School Integrated in Systems
-Development, with the purpose of improving my skills in the field of technology and
-innovation.
+José Renato is a high school student conducting research in the fields of programming and robotic. Currently enrolled in pre-initiation course at university of São Paulo

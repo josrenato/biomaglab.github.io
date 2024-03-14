@@ -26,7 +26,7 @@ pt:
       - name: Membros
         url: 'people'
         weight: 30
-      - name: Eventos
+      - name: Software
         url: 'event'
         weight: 40
       - name: Publicações

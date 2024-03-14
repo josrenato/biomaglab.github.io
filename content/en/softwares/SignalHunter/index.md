@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: Signal Hunter
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
+summary: The purpose of the software is to provide interfaces and algorithms for general electrophysiological data processing.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -54,10 +54,11 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Signal Hunter is a free software developed in MATLAB 8.1 language that has been developed to incorporate MEP Hunter functions in a more user-friendly interface and with new possibilities for collaborative development. The goal of Signal Hunter is to provide interfaces and algorithms for processing electrophysiological data in general.
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+Currently, it is being used by Prof. Sarah Dias from EEFERP-USP for processing electromyography signals and potentials evoked by Transcranial Magnetic Stimulation (TMS). Signal Hunter also has an interface for processing motor evoked potentials (MEPs) acquired with Signal software in conjunction with TMS Magstim, developed for the Functional Electrostimulation Laboratory at UFBA.
+
+New applications can be incorporated according to the researcher's needs.
+
+The development of Signal Hunter as free software allows research center users and academic environments to use it for research and teaching purposes.
