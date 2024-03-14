@@ -1,28 +1,7 @@
 ---
 title: InVesalius Navigator
 
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
 summary: Software for neuronavigation, visualization and manipulation of medical images.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -30,9 +9,25 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+show_date: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: true
+
+# Show estimated reading time?
+reading_time: false
+
+# Show social sharing links?
+share: false
+
+# Show a link to the next article in the series?
+pager: true
+
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 
+  focal_point: 'Center'
 
 url_code: ''
 url_pdf: ''

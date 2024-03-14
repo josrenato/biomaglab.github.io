@@ -1,8 +1,8 @@
 ---
-title: Created Softwares
+title: Softwares
 
 # Listing view
-view: card
+view: Masonry
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
