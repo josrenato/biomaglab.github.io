@@ -14,7 +14,7 @@ pt:
   contentDir: content/pt
   title: BiomagLab USP RP
   params:
-    description: Site description in pt...
+    description: O Laboratório de Biomagnetismo tem como objetivo estudar os campos magnéticos gerados pelos sistemas biológicos e a interação dos campos magnéticos externos com o corpo humano.
   menu:
     main:
       - name: Pesquisas

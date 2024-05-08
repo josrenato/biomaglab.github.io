@@ -8,18 +8,19 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Biomag Lab 
+        #### Universidade de São Paulo 
+        #### Campus Ribeirão Preto
       image:
         filename: departamento_fisica.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        O **Laboratório de Biomagnetismo** tem como objetivo estudar os campos magnéticos gerados pelos sistemas biológicos e a interação dos campos magnéticos externos com o corpo humano.
   
-  - block: collection
+  - block: markdown
     content:
-      title: Latest News
+      title: Researches
       subtitle:
       text:
       count: 5
