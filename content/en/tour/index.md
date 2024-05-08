@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: tour
 date: 2022-10-24
 
 type: landing
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: 
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: 
             filters:
               brightness: 0.5
           position: center

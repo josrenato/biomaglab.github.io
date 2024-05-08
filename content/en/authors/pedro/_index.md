@@ -1,20 +1,21 @@
 ---
 # Display name
-title: Oswaldo Baffa
+title: Pedro Cadamuro
+
 
 # Full name (for SEO)
-first_name: Oswaldo
-last_name: Baffa
+first_name: Pedro
+last_name: Cadamuro
 
 # Username (this should match the folder name)
 authors:
-  - baffa
+  - pedro
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full Professor
+role: Undergraduate Student  
 
 # Organizations/Affiliations
 organizations:
@@ -22,23 +23,17 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include on interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).
+bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). 
 
 interests:
-  - Biomagnetism 
-  - Electron Spin Resonance Dosimetry and Dating
+ - Electron Spin Resonance
 
 education:
   courses:
-    - course: Doctoral in Applied Physics 
+
+    - course: Undergraduate in Medical Physics
       institution: University of São Paulo
-      year: 1984
-    - course: Master in Applied Physics 
-      institution: University of São Paulo
-      year: 1980
-    - course: BSc in Physics
-      institution: University of São Paulo
-      year: 1976
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:baffa@usp.br'
+    link: 'mailto: '
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=MfmrtAIAAAAJ&hl=en
+    link: http://lattes.cnpq.br/1174209265189258
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Undergraduation Students
 ---
+Pedro Cadamuro is an undergraduate student in Medical Physics engaged in a Scientific Initiation program at the University of São Paulo (USP). His research and project focus on dosimetry, particularly on the study of Electronic Spin Resonance dosimetry applications in quality control in Radiotherapy and blood irradiation.
 
-Baffa is a full professor at the University of São Paulo. His research interests include interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).
