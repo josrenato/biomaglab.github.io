@@ -4,21 +4,21 @@ title: 'Inter-institutional protocol describing the use of three-dimensional pri
   neuronavigation'
 authors:
 - Carlo Rondinoni
-- Victor Hugo Oliveira E Souza
+- Victor Hugo Oliveira e Souza
 - Renan Hiroshi Matsuda
 - Andre Cunha Peres Salles
 - Marcelo Volpon Santos
 - Oswaldo Baffa Filho
-- Antonio Carlos Dos Santos
+- Antonio Carlos dos Santos
 - Helio Rubens Machado
 - Pedro Yoshito Noritomi
-- Jorge Vicente Lopes Da Silva
-date: '2014-01-01'
-publishDate: '2024-05-08T14:24:37.638761Z'
+- Jorge Vicente Lopes da Silva
+date: '2014-10-01'
+publishDate: '2024-05-08T14:49:22.034094Z'
 publication_types:
 - paper-conference
 publication: '*2014 IEEE 16th International Conference on e-Health Networking, Applications
-  and Services, Healthcom 2014*'
+  and Services (Healthcom)*'
 doi: 10.1109/HealthCom.2014.7001866
 abstract: 'This study is the first step in an effort to develop three-dimensional
   (3D) printing for use in pediatric surgical planning. In order to accomplish this,
@@ -45,4 +45,7 @@ tags:
 - neuronavigation
 - open source software
 - surgical planning
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/7001866/
 ---

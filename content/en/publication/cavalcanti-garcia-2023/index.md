@@ -8,12 +8,15 @@ authors:
 - Vitória Labiapari Pinto
 - Anaelli Aparecida Nogueira-Campos
 - Victor Hugo Souza
-date: '2023-01-01'
-publishDate: '2024-05-08T14:24:37.585924Z'
+date: '2023-07-01'
+publishDate: '2024-05-08T14:49:21.981380Z'
 publication_types:
 - article-journal
 publication: '*Biomedical Signal Processing and Control*'
 doi: 10.1016/j.bspc.2023.104781
 tags:
 - motor evoked potential
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S1746809423002148
 ---

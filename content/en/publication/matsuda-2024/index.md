@@ -6,7 +6,7 @@ authors:
 - Victor H. Souza
 - Thais C. Marchetti
 - Ana M. Soto
-- Olli Pekka Kahilakoski
+- Olli-Pekka Kahilakoski
 - Andrey Zhdanov
 - Victor H. E. Malheiro
 - Mikael Laine
@@ -16,8 +16,8 @@ authors:
 - Pantelis Lioumis
 - Risto J. Ilmoniemi
 - Oswaldo Baffa
-date: '2024-01-01'
-publishDate: '2024-05-08T14:24:37.568376Z'
+date: '2024-03-01'
+publishDate: '2024-05-08T14:49:21.963730Z'
 publication_types:
 - article-journal
 publication: '*Brain Stimulation*'
@@ -28,4 +28,7 @@ tags:
 - Multi-locus TMS
 - Robotized TMS
 - Transcranial magnetic stimulation
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S1935861X24000585
 ---

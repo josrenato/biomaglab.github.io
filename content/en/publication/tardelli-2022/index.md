@@ -10,12 +10,12 @@ authors:
 - Maria A. Nazarova
 - Oswaldo Baffa
 date: '2022-05-01'
-publishDate: '2024-05-08T14:24:37.592278Z'
+publishDate: '2024-05-08T14:49:21.987974Z'
 publication_types:
 - article-journal
 publication: '*Brain Topography*'
 doi: 10.1007/s10548-022-00893-1
-abstract: Most of the motor mapping procedures using navigated transcranial magnetic
+abstract: <p>Most of the motor mapping procedures using navigated transcranial magnetic
   stimulation (nTMS) follow the conventional somatotopic organization of the primary
   motor cortex (M1) by assessing the representation of a particular target muscle,
   disregarding the possible coactivation of synergistic muscles. In turn, multiple
@@ -34,7 +34,7 @@ abstract: Most of the motor mapping procedures using navigated transcranial magn
   contributes to a more detailed cortical motor representation towards a synergistic,
   functional arrangement of M1. Understanding the muscle group coactivation may provide
   more accurate motor maps when delineating the eloquent brain tissue during pre-surgical
-  planning.
+  planning.</p>
 tags:
 - Motor evoked potential
 - Motor mapping
@@ -42,4 +42,7 @@ tags:
 - Synergy
 - TMS
 - Transcranial magnetic stimulation
+links:
+- name: URL
+  url: https://link.springer.com/10.1007/s10548-022-00893-1
 ---

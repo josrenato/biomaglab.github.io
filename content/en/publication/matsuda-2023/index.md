@@ -8,7 +8,7 @@ authors:
 - Risto J Ilmoniemi
 - Oswaldo Baffa
 date: '2023-06-01'
-publishDate: '2024-05-08T14:24:37.577911Z'
+publishDate: '2024-05-08T14:49:21.973621Z'
 publication_types:
 - article-journal
 publication: '*Physical and Engineering Sciences in Medicine*'

@@ -11,7 +11,7 @@ authors:
 - Helio Rubens Machado
 - Antonio Adilton Oliveira Carneiro
 date: '2018-12-01'
-publishDate: '2024-05-08T14:24:37.630683Z'
+publishDate: '2024-05-08T14:49:22.026127Z'
 publication_types:
 - article-journal
 publication: '*3D Printing in Medicine*'

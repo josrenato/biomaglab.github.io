@@ -10,7 +10,7 @@ authors:
 - Jorge Vicente L. Silva
 - Oswaldo Baffa
 date: '2018-01-01'
-publishDate: '2024-05-08T14:24:37.622553Z'
+publishDate: '2024-05-08T14:49:22.017976Z'
 publication_types:
 - article-journal
 publication: '*Journal of Neuroscience Methods*'
