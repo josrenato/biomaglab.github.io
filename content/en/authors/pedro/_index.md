@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Thais Marchetti
+title: Pedro Cadamuro
 
 
 # Full name (for SEO)
-first_name: Thais
-last_name: Marchetti
+first_name: Pedro
+last_name: Cadamuro
 
 # Username (this should match the folder name)
 authors:
-  - thais
+  - pedro
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctorate Student  
+role: Undergraduate Student  
 
 # Organizations/Affiliations
 organizations:
@@ -23,20 +23,17 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have been engaged in research focusing on instrumentation within the development of an automated robotic system for the positioning of coils in transcranial magnetic stimulation. Over the past few years, my emphasis has shifted towards the optimization of this technique, particularly in the study of protocols, including methodologies and enhancing the overall efficiency of the transcranial magnetic stimulation process.
+bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). 
 
 interests:
-  - Biomagnetism 
-  - Magnetic Resonance Imaging
-  - Transcranial Magnetic Simulation
-
+ - Electron Spin Resonance
 
 education:
   courses:
 
-    - course: BSc in Physics
+    - course: Undergraduate in Medical Physics
       institution: University of São Paulo
-      year: 2023
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: thaismarchetti@usp.br'
+    link: 'mailto: '
   - icon: google-scholar
     icon_pack: ai
-    link:  http://lattes.cnpq.br/9651023044651510
+    link: http://lattes.cnpq.br/1174209265189258
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduation Students
+  - Undergraduation Students
 ---
-Thais Marchetti has been engaged in research focusing on instrumentation within the development of an automated robotic system for the positioning of coils in transcranial magnetic stimulation. Over the past few years, her emphasis has shifted towards the optimization of this technique, particularly in the study of protocols, including methodologies and enhancing the overall efficiency of the transcranial magnetic stimulation process.
+Pedro Cadamuro is an undergraduate student in Medical Physics engaged in a Scientific Initiation program at the University of São Paulo (USP). His research and project focus on dosimetry, particularly on the study of Electronic Spin Resonance dosimetry applications in quality control in Radiotherapy and blood irradiation.
 

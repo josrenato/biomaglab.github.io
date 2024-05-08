@@ -23,19 +23,19 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). Her research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
+bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). My research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
 
 interests:
   - Transcranial Magnetic Stimulation 
-  - Biomagnetrism
+  - Biomagnetism
   - Optical Pumping Magnetometers
 
 education:
   courses:
 
-    - course: BSc in Medical Physics
+    - course: Undergraduate in Medical Physics
       institution: University of São Paulo
-      year: 2021 - 2025
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Undergraduation Students
 ---
 Débora Martins de Souza is an undergraduate student in Medical Physics and is engaged in a Scientific Initiation program at the University of São Paulo (USP). Her research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
 

@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Thais Marchetti
+title: Gabriela Tardelli
 
 
 # Full name (for SEO)
-first_name: Thais
-last_name: Marchetti
+first_name: Gabriela 
+last_name: Tardelli
 
 # Username (this should match the folder name)
 authors:
-  - thais
+  - gabriela
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctorate Student  
+role:  Research
 
 # Organizations/Affiliations
 organizations:
@@ -23,18 +23,15 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have been engaged in research focusing on instrumentation within the development of an automated robotic system for the positioning of coils in transcranial magnetic stimulation. Over the past few years, my emphasis has shifted towards the optimization of this technique, particularly in the study of protocols, including methodologies and enhancing the overall efficiency of the transcranial magnetic stimulation process.
-
+bio: I completed an internship as a visiting researcher at the Department of Medical Physics at the University of Wisconsin-Madison during my master's degree (2021-2023). I have experience in Physics with an emphasis on Medical Physics and Biomagnetism. 
 interests:
-  - Biomagnetism 
-  - Magnetic Resonance Imaging
-  - Transcranial Magnetic Simulation
-
+  - Transcranial Magnetic Stimulation 
+  - Fetal Magnetocardiography
 
 education:
   courses:
 
-    - course: BSc in Physics
+    - course: Master's Degree in Physics Applied to Medicine and Biology
       institution: University of São Paulo
       year: 2023
 
@@ -45,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: thaismarchetti@usp.br'
+    link: 'mailto: peres.asc@gmail.com'
   - icon: google-scholar
     icon_pack: ai
-    link:  http://lattes.cnpq.br/9651023044651510
+    link: http://lattes.cnpq.br/4347902192562556
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduation Students
+  - Collaborators
 ---
-Thais Marchetti has been engaged in research focusing on instrumentation within the development of an automated robotic system for the positioning of coils in transcranial magnetic stimulation. Over the past few years, her emphasis has shifted towards the optimization of this technique, particularly in the study of protocols, including methodologies and enhancing the overall efficiency of the transcranial magnetic stimulation process.
+Gabriela Tardelli completed an internship as a visiting researcher at the Department of Medical Physics at the University of Wisconsin-Madison during her master's degree (2021-2023). She has experience in Physics with an emphasis on Medical Physics and Biomagnetism. During her undergraduate studies, she worked with cortical motor mapping using transcranial magnetic stimulation (TMS) combined with neuronavigation.
 

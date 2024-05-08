@@ -13,7 +13,8 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
-          - Grad Students
+          - Graduation Students
+          - Undergraduation Students
           - Administration
           - Collaborators
           - Technicians
