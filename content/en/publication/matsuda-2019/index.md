@@ -7,7 +7,7 @@ authors:
 - Victor Hugo Souza
 - Oswaldo Baffa Filho
 date: '2019-09-01'
-publishDate: '2024-05-08T14:09:56.419716Z'
+publishDate: '2024-05-08T14:24:37.607171Z'
 publication_types:
 - article-journal
 publication: '*Revista Brasileira de Física Médica*'

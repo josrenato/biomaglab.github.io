@@ -9,7 +9,7 @@ authors:
 - J. R. A. Miranda
 - R. T. Wakai
 date: '2019-04-01'
-publishDate: '2024-05-08T14:09:56.427141Z'
+publishDate: '2024-05-08T14:24:37.614589Z'
 publication_types:
 - article-journal
 publication: '*Journal of Magnetism and Magnetic Materials*'

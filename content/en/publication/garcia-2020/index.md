@@ -8,7 +8,7 @@ authors:
 - Renan Hiroshi Matsuda
 - Anaelli Aparecida Nogueira-Campos
 date: '2020-06-01'
-publishDate: '2024-05-08T14:09:56.412461Z'
+publishDate: '2024-05-08T14:24:37.599924Z'
 publication_types:
 - article-journal
 publication: '*Biomedical Physics & Engineering Express*'

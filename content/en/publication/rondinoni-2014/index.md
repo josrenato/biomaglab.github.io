@@ -14,7 +14,7 @@ authors:
 - Pedro Yoshito Noritomi
 - Jorge Vicente Lopes Da Silva
 date: '2014-01-01'
-publishDate: '2024-05-08T14:09:56.450859Z'
+publishDate: '2024-05-08T14:24:37.638761Z'
 publication_types:
 - paper-conference
 publication: '*2014 IEEE 16th International Conference on e-Health Networking, Applications

@@ -9,7 +9,7 @@ authors:
 - Anaelli Aparecida Nogueira-Campos
 - Victor Hugo Souza
 date: '2023-01-01'
-publishDate: '2024-05-08T14:09:56.397761Z'
+publishDate: '2024-05-08T14:24:37.585924Z'
 publication_types:
 - article-journal
 publication: '*Biomedical Signal Processing and Control*'
