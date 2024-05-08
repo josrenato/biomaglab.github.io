@@ -28,7 +28,7 @@ sections:
           image:
             filename: coders.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: right
           color: '#666'
       - title: 
@@ -38,7 +38,7 @@ sections:
           image:
             filename: group.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: center
           color: '#555'
       - title: Biomag Lab
