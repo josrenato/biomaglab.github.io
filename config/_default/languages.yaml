@@ -18,10 +18,10 @@ pt:
   menu:
     main:
       - name: Pesquisas
-        url: 'post'
+        url: 'researches'
         weight: 20
       - name: Softwares
-        url: 'event'
+        url: 'softwares'
         weight: 40
       - name: Membros
         url: 'people'

@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Renan Matsuda
+title: Lucas Betioli
 
-# Full Name (for SEO)
-first_name: Renan 
-last_name: Matsuda
+
+# Full name (for SEO)
+first_name: Lucas
+last_name: Betioli
+
+# Username (this should match the folder name)
+authors:
+  - lucas
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Postdoctorate
+role: Master Student 
 
 # Organizations/Affiliations
 organizations:
   - name: University of São Paulo
-    url: ''
+    url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Biomagnetism, working with Transcranial Magnetic Stimulation (TMS), computer vision, robotics and also on the development of a neuronavigation system, InVesalius Navigator.
+bio: My research interests include on interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).
 
 interests:
-  - Transcranial Magnetic Stimulation
-  - Robotics
+  - Transcranial Magnetic Stimulation 
+  - Machine Learning
   - Programming
 
 education:
   courses:
-    - course: Doctoral in Physics Applied to Medicine and Biology
-      institution: University of São Paulo
-      year: 2022
-    - course: Master in Physics Applied to Medicine and Biology
-      institution: University of São Paulo
-      year: 2018
+
     - course: BSc in Medical Physics
       institution: University of São Paulo
-      year: 2015
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,13 +44,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:renan.matsuda@usp.br'
+    link: 'mailto: lucasantoniobetioli@usp.br '
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=gKMnDfMAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/rmatsuda
+    link: http://lattes.cnpq.br/4001525939442983 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,13 +58,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Graduation Students
 ---
+Lucas Betioli is a master's student focusing on Transcranial Magnetic Stimulation (TMS), machine learning, and tractography. He's also a contributor to the Invesalius Navigator, neuronavigation system.
 
-Renan Matsuda is a postdoctorate working with Transcranial Magnetic Stimulation (TMS), computer vision, robotics and also on the development of a neuronavigation system, InVesalius Navigator.
