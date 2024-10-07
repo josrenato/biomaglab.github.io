@@ -22,8 +22,7 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My project is based on using a robotic arm as a foundation for learning and research. The robot used for research aims to, in the future, perform the treatment of neurological diseases with high effectiveness and precision, as manual treatment is not as accurate as the one done by the robot. Currently, my main research is in the area of programming sensors for the robotic arm. I am studying various programming languages, with Python being the main one. Also, I study in the integrated high school program in systems development. 
-
+bio: Ana Carolina de Paula Cavalheri is an undergraduate student in Medical Physics, engaged in a Scientific Initiation Program at University of São Paulo (USP). Her research focuses on biomagnetism, with emphasis on the study of Transcranial Magnetic Stimulation (TMS).
 
 interests:
   - Biomagnetism 
