@@ -32,7 +32,8 @@ interests:
 
 education:
   courses:
-  - Course: Medial Physics Graduation.Universidade de Sao Paulo, USP, Brazil year: 2022-2026
+  - Course: Medial Physics Graduation.Universidade de Sao Paulo, USP, Brazil
+    year: 2022-2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
