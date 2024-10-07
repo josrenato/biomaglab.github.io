@@ -18,7 +18,7 @@ role: Undergraduation Students
 
 # Organizations/Affiliations
 organizations:
-  - name: University of São Paulo
+  - name: Universidade de São Paulo
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: Medial Physics Graduation.Universidade de Sao Paulo, USP, Brazil
+  - course: Medial Physics Graduation. Universidade de São Paulo, USP, Brazil
     year: 2022-2026
 
 # Social/Academic Networking
