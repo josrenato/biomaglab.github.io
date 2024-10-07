@@ -1,20 +1,20 @@
 ---
 # Display name
-title: João Neves
+title: Ana Cavalheri
 
 # Full name (for SEO)
-first_name: João
-last_name: Neves
+first_name: Ana
+last_name: Cavalheri
 
 # Username (this should match the folder name)
 authors:
-  - João Pedro das Neves
+  - Ana Carolina Cavalheri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Pre-initiation Student
+role: Undergraduation Students
 
 # Organizations/Affiliations
 organizations:
@@ -27,15 +27,12 @@ bio: My project is based on using a robotic arm as a foundation for learning and
 
 interests:
   - Biomagnetism 
-  - Systems development
-  - Programming
+  - Trancranial Magnetic Stimulation
+  - Magnetic Resonance Imaging
 
 education:
   courses:
-  - course: High School (2nd grade) in progress. ETEC Antônio de Pádua Cardoso, SP, Brazil
-    year: 2024, current.
-  - course: Elementary Education (1st grade) Maria Virgínia Batatais, SP, Brazil.
-    year: 2022
+  - Course: Medial Physics Graduation.Universidade de Sao Paulo, USP, Brazil year: 2022-2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
