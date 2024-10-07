@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - High School Students
+  - Undergraduation Students
 ---
 
 João Pedro das Neves is a high school student who is currently undertaking pre-scientific initiation at the University of São Paulo. His research and projects focus on the fields of physics, robotics, and programming.
