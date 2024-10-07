@@ -61,5 +61,4 @@ user_groups:
   - Undergraduation Students
 ---
 
-João Pedro das Neves is a high school student who is currently undertaking pre-scientific initiation at the University of São Paulo. His research and projects focus on the fields of physics, robotics, and programming.
-
+Ana Carolina de Paula Cavalheri is an undergraduate student in Medical Physics, engaged in a Scientific Initiation Program at University of São Paulo (USP). Her research focuses on biomagnetism, with emphasis on the study of Transcranial Magnetic Stimulation (TMS).
