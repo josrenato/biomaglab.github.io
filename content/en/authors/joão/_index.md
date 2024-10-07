@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto: jpedroneves55@gmail.com'
+  link: 'mailto: anacpcavalheri@usp.br'
 - icon: google-scholar
   icon_pack: ai
   link: http://lattes.cnpq.br/1325158399758293
